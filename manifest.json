@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Ad Network Monitor",
+  "description": "Monitor and analyze ad network requests in real time with detailed categorization and export capabilities.",
+  "version": "2.0.0",
+  "minimum_chrome_version": "110",
+  "permissions": [
+    "webRequest",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "background": {
+    "service_worker": "background/service-worker.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "128": "icons/icon128.png"
+    }
+  }
+}
