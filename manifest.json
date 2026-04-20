@@ -1,9 +1,9 @@
 {
   "manifest_version": 3,
-  "name": "Ad Network Monitor",
-  "short_name": "Ad Monitor",
+  "name": "Ad Network Logger",
+  "short_name": "Ad Logger",
   "description": "Monitor and analyze ad network requests in real time with detailed categorization and export capabilities.",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "minimum_chrome_version": "110",
   "permissions": [
     "webRequest",
@@ -22,7 +22,7 @@
     "type": "module"
   },
   "action": {
-    "default_title": "Open Ad Network Monitor",
+    "default_title": "Open Ad Network Logger",
     "default_popup": "popup/popup.html",
     "default_icon": {
       "128": "icons/icon128.png"

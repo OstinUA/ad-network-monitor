@@ -1,11 +1,22 @@
-# Ad Network Monitor Logging Library
+<div align="center">
+
+<pre>
+     _       _    _   _      _                      _       _                                
+    / \   __| |  | \ | | ___| |___      _____  _ __| | __  | |    ___   __ _  __ _  ___ _ __ 
+   / _ \ / _` |  |  \| |/ _ \ __\ \ /\ / / _ \| '__| |/ /  | |   / _ \ / _` |/ _` |/ _ \ '__|
+  / ___ \ (_| |  | |\  |  __/ |_ \ V  V / (_) | |  |   <   | |__| (_) | (_| | (_| |  __/ |   
+ /_/   \_\__,_|  |_| \_|\___|\__| \_/\_/ \___/|_|  |_|\_\  |_____\___/ \__, |\__, |\___|_|   
+                                                                       |___/ |___/           
+</pre>
+
+</div>
 
 Real-time browser-side logging and classification toolkit for ad, tracking, pixel, and social network requests.
 
 [![Chrome Store](https://img.shields.io/badge/platform-Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/search/OstinUA)
 [![Chrome Portfolio](https://img.shields.io/badge/Chrome_Web_Store-Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ostinua.github.io/Chrome-Web-Store_Developer-List/)
 
-[![Version](https://img.shields.io/badge/version-2.0.1-2ea44f?style=for-the-badge)](./manifest.json)
+[![Version](https://img.shields.io/badge/version-2.0.2-2ea44f?style=for-the-badge)](./manifest.json)
 [![Manifest](https://img.shields.io/badge/chrome_manifest-v3-4285f4?style=for-the-badge)](./manifest.json)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)](.)
